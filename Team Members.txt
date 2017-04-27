@@ -1,0 +1,19 @@
+[------------------Team Members-----------------------]
+
+
+Group Name: TeamO
+Members:
+
+Project Manager: 
+Karl Monderick M. Cayanan
+
+Developers:
+Danilo P. Manaloto
+Jonard T. Samson
+Patrick Miguel Birena
+
+Analyst:
+Jasper Gana
+Kenneth John Malapitan
+Christian Manansala
+Ismael R. De Leon

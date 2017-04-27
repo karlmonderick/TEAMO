@@ -1,0 +1,7 @@
+[----------INSTALLATION GUIDE-----------]
+
+1. After downloading the File. Extract File
+2. Copy folder, SE(TEAMO) on c://xampp/htdocs.
+3. To import database, go to localhost/phpmyadmin.
+4. Create database-> name it, enrollment_db.
+5. After creating database click import and get the file in the folder -> SE(TEAMO)/db. The file name, enrollment_db.sql
