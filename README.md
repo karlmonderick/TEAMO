@@ -39,7 +39,7 @@ Enrollment System:
 	To Login:
 	a.) Use Existing data:
 		Email: karl1@gmail.com
-		Password: karlmonderick
+		Password: monderick
 
 	b.) Register new data:
 		1. Click I want to Register below
